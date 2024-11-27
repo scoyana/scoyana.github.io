@@ -18,4 +18,3 @@ showmount -e <ip>
 sudo mount 172.31.217.167:/public-nfs /mnt/(dir)
 ```
 mount 명령어를 sudo 권한으로 실행해 /mnt/(dir) 경로에 타겟 nfs에 노출되어 있던 directory를 연결시킴
-
